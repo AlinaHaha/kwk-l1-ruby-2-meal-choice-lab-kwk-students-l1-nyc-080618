@@ -1,5 +1,5 @@
 def breakfast(food="frosted flakes")
-  "Morning is for ceeral like #{food}!"
+  "Morning is for cereal like #{food}!"
 end
 
 
@@ -18,5 +18,4 @@ puts snacks("Swedish fish")
 
 
 # Call your methods without any arguments here
-puts snacks
-## In our snacks method, the default choice is "Cheetos" Calling snacks like this without specifying a choice will return "Any time, is the right time for Cheetos!"
+
